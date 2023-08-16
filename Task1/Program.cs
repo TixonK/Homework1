@@ -9,6 +9,11 @@ if (a>b)
     Console.WriteLine(a);
 }
 
+else if (a==b)
+{
+    Console.WriteLine("a=b");
+}
+
 else{
     Console.WriteLine("Maxx = ");
     Console.WriteLine(b);
